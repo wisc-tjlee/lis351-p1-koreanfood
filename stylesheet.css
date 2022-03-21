@@ -1,0 +1,71 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: "Georgia", serif;
+	color: #264653;}
+header {
+	text-align: center;
+	background-color:#FDE2E4}
+nav {
+	margin-bottom: 25px;
+	margin-top: 25px;
+	text-align: center;
+	padding: 5px;}
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #F8EDEB}
+dt {
+	font-weight: bold;
+	padding: 5px}
+dd, li {
+	padding: 3px;}
+h2, h3 {
+	font-size: 90%}
+#hpintro{
+	float:left; 
+	width: 45%; 
+	background-color:#D6E2E9;
+	padding: 10px}
+#hpintro2{
+	background-color: #DBE7E4; 
+	padding: 10px; 
+	margin-bottom: 5px; 
+	float: left;}
+#navform {
+	padding-right: 10px; 
+	padding-left: 10px;}
+#homeintro{
+	float:right; 
+	width: 50%; 
+	background-color:#D6E2E9; 
+	padding: 10px;}
+#rosterimg{
+	float: left; 
+	width: 45%; 
+	margin-bottom: 10px}
+#footer{
+	float:left; 
+	align-content: center; 
+	padding-left: 20%; 
+	padding-right: 19%; 
+	background-color: #FCD5CE; 
+	margin-top: 20px}
+#tips{
+	width: 50%; 
+	margin-top: 10px; 
+	float: right; 
+	background-color: #FAE1DD;}
+#tips2{
+	width: 50%; 
+	margin-top: 10px; 
+	float: left; 
+	background-color: #FAE1DD;}
+.clearfloat{
+	clear: both;}
+#content {
+	overflow: auto;
+	height: 100%;}
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;}
